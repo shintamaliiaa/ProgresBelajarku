@@ -1,0 +1,6 @@
+Pengantar Git dan GitHub
+
+Version Control System merupakan tools untuk mengatur suatu perubahan dan konfigurasi dari suatu aplikasi, termasuk juga source code. Setiap perubahan yang dilakukan akan dicatat, sehingga memperjelas siapa yang telah melakukan perubahan tersebut. Selain itu, version control juga berfungsi sebagai backup files. Dengan begitu, akan mempermudah pencarian bug atau masalah.
+
+GitHub merupakan layanan hosting repository Git berbasis web yang juga memiliki banyak fitur seperti bug tracking dan task management.
+
